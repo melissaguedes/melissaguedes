@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Hello, I'm Melissa! 🐝 
+## Hello, I'm Melissa! 🐝 
 <img width="2795" alt="Cena 1 - Chapter 8" src="https://github.com/user-attachments/assets/591115f2-f4b0-4620-8d65-541af1a951d6" />
 
 🎓 Computer Engineering Student at **IFCE**  
@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 👩🏻‍💻 About Me
 
 I'm a Computer Engineering student at the Federal Institute of Ceará (IFCE) and an iOS Developer currently honing my skills at the Apple Developer Academy. My work blends creativity and technology, with a strong focus on accessibility, usability, and clean interface design.
 
