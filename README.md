@@ -6,7 +6,7 @@ An iOS Developer driven by a passion for creating coding experiences that are bo
 
 - **Languages**: Swift, C, Python and Java
 - **Apple Frameworks**: SwiftUI, UIKit, CoreML, SpriteKit, RealityKit, ARKit, MapKit, Vision
-- **Tools**: Xcode, Git, CreateML, Swift Playgrounds, TestFlight, Eclipse & more
+- **Tools**: Xcode, Git, CreateML, Swift Playgrounds, TestFlight, Vision & more
 - **Interests**: Mobile apps, AI, accessibility, creative coding  
 
 
