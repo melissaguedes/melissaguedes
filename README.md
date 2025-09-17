@@ -1,17 +1,8 @@
 ## Hello, I'm Melissa! 🐝 
 
-Computer Engineering Student at **IFCE**  
-iOS Developer at **Apple Developer Academy**      
-Passionate about creating meaningful, user-centered digital experiences  
-Focused on Apple technologies and UX/UI Design  
-
-## About Me
-
-I'm a Computer Engineering student at the Federal Institute of Ceará (IFCE) and an iOS Developer currently honing my skills at the Apple Developer Academy. My work blends creativity and technology, with a strong focus on accessibility, usability, and clean interface design.
-
-At the Academy, I’ve collaborated on impactful projects that combine mobile development, design thinking, and machine learning to solve real-world problems.
-
-
+A Computer Engineering Student at **IFCE** and a iOS Developer at **Apple Developer Academy**  
+driven by a passion for coding digital experiences that are both impactful and user-focused.
+ 
 ## Tech Stack
 
 - **Languages**: Swift, C, Python and Java
