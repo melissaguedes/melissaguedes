@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FF0000&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=00008B&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
 
 An iOS Developer driven by a passion for creating coding experiences that are both impactful and user-focused.
  
@@ -6,7 +6,7 @@ An iOS Developer driven by a passion for creating coding experiences that are bo
 
 - **Languages**: Swift, C, Python and Java
 - **Apple Frameworks**: SwiftUI, UIKit, CoreML, SpriteKit, RealityKit, ARKit, MapKit, Vision
-- **Tools**: Xcode, Git, Create ML, Swift Playgrounds, TestFlight 
+- **Tools**: Xcode, Git, CreateML, Swift Playgrounds, TestFlight, Eclipse & more
 - **Interests**: Mobile apps, AI, accessibility, creative coding  
 
 
