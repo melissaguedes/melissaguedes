@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&pause=900&color=FF0000&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
 
 An iOS Developer driven by a passion for creating coding experiences that are both impactful and user-focused.
  
@@ -12,6 +12,8 @@ An iOS Developer driven by a passion for creating coding experiences that are bo
 
 ## Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/melissafguedes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+<a href="https://www.linkedin.com/in/melissafguedes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 Feel free to reach out to chat about iOS development, projects, or tech in general!
