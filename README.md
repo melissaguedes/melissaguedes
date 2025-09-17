@@ -1,13 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
 
-A Computer Engineering Student at **IFCE** and a iOS Developer at **Apple Developer Academy**  
-driven by a passion for coding digital experiences that are both impactful and user-focused.
+An iOS Developer driven by a passion for creating coding experiences that are both impactful and user-focused.
  
 ## Tech Stack
 
 - **Languages**: Swift, C, Python and Java
 - **Apple Frameworks**: SwiftUI, UIKit, CoreML, SpriteKit, RealityKit, ARKit, MapKit, Vision
-- **Tools**: Xcode, Git, Create ML, Figma  
+- **Tools**: Xcode, Git, Create ML, Swift Playgrounds, TestFlight 
 - **Interests**: Mobile apps, AI, accessibility, creative coding  
 
 
