@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&pause=900&color=FF0000&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FF0000&width=600&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
 
 An iOS Developer driven by a passion for creating coding experiences that are both impactful and user-focused.
  
