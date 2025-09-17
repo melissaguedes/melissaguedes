@@ -1,4 +1,4 @@
-## Hello, I'm Melissa! 🐝 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B93E&lines=Hello,+I'm+Melissa!;iOS+Developer;Tech+Enthusiast;Always+Learning)
 
 A Computer Engineering Student at **IFCE** and a iOS Developer at **Apple Developer Academy**  
 driven by a passion for coding digital experiences that are both impactful and user-focused.
