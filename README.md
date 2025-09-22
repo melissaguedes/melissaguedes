@@ -16,4 +16,4 @@ An iOS Developer driven by a passion for creating coding experiences that are bo
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Feel free to reach out to chat about iOS development, projects, or tech in general.
+Feel free to reach out to chat about iOS development, projects, or tech in general!
